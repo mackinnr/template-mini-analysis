@@ -114,5 +114,24 @@ So far, you have chosen a dataset and gotten familiar with it through exploring 
 
 <!--- *****START HERE***** --->
 
+# Submitting your Milestone
+
+To submit a Milestone, you'll be tagging a release on your GitHub repository, and submitting a link to that release on canvas. 
+
+_How to tag a release_:
+
+1. Navigate to the main page (root) of your mini analysis GitHub repository.
+2. There should be a small link on the right-hand-side of your page that says "Create a new release". Click that.
+  - You might also be able to get to the same place by clicking on the "tags" link beside where your branches are listed. 
+3. For the tag version, put `mV.0`, where `V` is the Milestone number.
+4. Choose a release title and description (this is less important).
+5. Do __not__ check off "This is a pre-release".
+6. Click "Publish Release".
+7. Put a link to that release as a submission on the Mini Analysis Project Milestone in canvas.
+  - You won't lose marks for _not_ doing this, but it would really help us out if you do this! Thank you!
+
+_Tagging another release_:
+
+If you want to change your submission _after_ tagging a release, you can still do this if it's before the deadline. Just increase the secondary version number by one -- so, make the tag version `mV.1`, then `mV.2`, etc., where `V` is the Milestone number. 
 
 
